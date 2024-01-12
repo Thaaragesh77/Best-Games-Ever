@@ -1,0 +1,50 @@
+<html>
+     <head>
+          <title>
+               BEST VIDEOGAMES EVER
+          </title>
+     </head>
+     <STYLE>
+          body  {font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 20px;
+          }
+          h1 {
+               color: #333;
+               text-align: center;
+          }
+ul       {
+            list-style-type: none;
+            padding: 0;
+}
+li {
+     margin-bottom: 10px;
+     background-color:#fff;
+     padding: 15px;
+     border-radius: 8px;
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+     </STYLE>
+     </head>
+     <body>
+
+          <h1>Best Video Games Ever</h1>
+
+          <ul>
+               <li>
+                    <h2>Minecraft</h2>
+                    <p>Minecraft is a sandbox game where players explore a blocky, three-dimensional world. The game's main objective is to mine and craft, and players can do anything they want without a plot or quests</p>
+
+               </li>
+               <li>
+                    <h2>GTA-5</h2>
+                    <p> Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.</p>     
+
+               </li>
+               <li>
+                    <h2>God Of War:whole serise</h2>
+                    <p>  the story follows Kratos, a Spartan warrior and later the Greek God of War, who was tricked into killing his family by his former master, the original Greek God of War Ares</p>
+               </li>
+          </ul>
+     </body>
+</html>
